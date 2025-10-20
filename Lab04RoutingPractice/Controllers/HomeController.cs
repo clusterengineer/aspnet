@@ -26,4 +26,17 @@ public class HomeController : Controller
             return Content("ID: " + id);
         }
     }
+
+    [Route("[action]/{start}/{end?}/{message?}")]
+    public IActionResult Countdown(int start, int end =0, string message = "")
+    {
+        string contentString = "Counting down:\n";
+        for (int i = num; i >= 0; i--)
+        {
+            contentString += i + "\n";
+        }
+        contentString += message;
+        return Content(contentString);
+    }
+
 }
