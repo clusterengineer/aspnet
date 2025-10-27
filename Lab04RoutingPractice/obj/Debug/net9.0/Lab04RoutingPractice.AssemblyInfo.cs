@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab04RoutingPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d8248347d8eac45551147e51f608069df620668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf603a000213868b0e8bf71f2808037ca240853b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab04RoutingPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab04RoutingPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
